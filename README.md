@@ -1,16 +1,18 @@
-## Hi there 👋
+# مرحباً، أنا leeloona 👋
 
-<!--
-**perences-sketch/perences-sketch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**شغوفة بالتقنية ومبتكرة في المستقبل، أدرس درجة بكالوريوس في التكنولوجيا. لدي شغف بالتحول الرقمي والحلول المتطورة.**
 
-Here are some ideas to get you started:
+- 🔭 أعمل حالياً على: مشروع [Recycle Fashion](https://github.com/perences-sketch/sew-course)
+- 🌱 أتعلم حالياً: تطوير الويب وتجربة المستخدم
+- 💬 اسألني عن: التقنية والتحول الرقمي
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ المهارات والتقنيات
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+### 📊 إحصائياتي في GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=perences-sketch&show_icons=true&theme=radical)
+
+---
+⭐️ *من [perences-sketch](https://github.com/perences-sketch)*
