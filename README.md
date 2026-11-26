@@ -16,3 +16,5 @@
 
 ---
 ⭐️ *من [perences-sketch](https://github.com/perences-sketch)*
+
+![Profile Views](https://komarev.com/ghpvc/?username=perences-sketch&label=Profile+Views&color=blueviolet&style=flat-square)
